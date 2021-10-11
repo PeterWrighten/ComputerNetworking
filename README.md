@@ -7,6 +7,8 @@ This Repo is almost based on my college courses(Textbook is [Computer Networks, 
 
 **I would just take my notes here but NOT upload lecture notes because of Copyright.**
 
+The Lab And Programming are based on [Stanford CS144](https://cs144.github.io/) and [Computer Networking: A Top-down Approach](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf).
+
 # Syllabus
 
 
