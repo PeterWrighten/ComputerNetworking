@@ -17,3 +17,5 @@ This Repo would almost take some notes and do some prerequisites for labs of CS1
 ## [CNet:A Top-down Appoach Lab](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab)
 
 # Lecture Note
+
+**[Prerequisites](https://github.com/PeterWrighten/ComputerNetworking/blob/main/prerequisites/README.md)**
