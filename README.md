@@ -18,7 +18,9 @@ This Repo would almost take some notes and do some prerequisites for labs of CS1
 
 # Lecture Note
 
-**[Prerequisites](https://github.com/PeterWrighten/ComputerNetworking/blob/main/prerequisites/README.md)**
+[**CNet: A Top-down Approach Notes**](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab/blob/main/NOTE.md)
+
+[**Prerequisites**](https://github.com/PeterWrighten/ComputerNetworking/blob/main/prerequisites/README.md)
 
 ## Lecture 1: [How The Internet Works](https://cs144.github.io/handouts/week-1-how-the-internet-works.pdf)
 
