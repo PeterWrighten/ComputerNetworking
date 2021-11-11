@@ -14,7 +14,15 @@ This Repo would almost take some notes and do some prerequisites for labs of CS1
 
 ## [CS144 Lab](https://github.com/PeterWrighten/CS144_Lab)
 
+The Repo to implement CS144's Lab By C++.
+
 ## [CNet:A Top-down Appoach Lab](https://github.com/PeterWrighten/CNet_aTop-downapproach_Lab)
+
+The Repo to implement Top-Down Approach Lab By Python.
+
+## [My Lab]()
+
+Besides CS144 and CNet's Lab, I would also implement some other labs which I consider as indispensible. I would do this job in this Repo.
 
 # Lecture Note
 
@@ -112,3 +120,7 @@ A module behaves reliably when it:
 |Network   | Datagram  |
 |Transport  | Segment  |
 |Application   | Message  |
+
+## Lecture 2: Client-Server Model & P2P Model
+
+> Because CS144 &
