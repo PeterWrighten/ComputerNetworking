@@ -123,4 +123,4 @@ A module behaves reliably when it:
 
 ## Lecture 2: Client-Server Model & P2P Model
 
-> Because CS144 &
+> Because both CS144 & CNet don't provide excellent P2P model lab and code implementation, So I would try implementing P2P model by myself with some references of web. I would do this job in [My Lab](https://github.com/PeterWrighten/ComputerNetworking/tree/main/My%20Lab).
