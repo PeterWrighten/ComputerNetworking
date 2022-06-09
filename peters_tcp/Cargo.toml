@@ -8,3 +8,4 @@ edition = "2021"
 
 [dependencies]
 serde = "*"
+tun-tap = "0.1.2"
