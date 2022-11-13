@@ -18,13 +18,12 @@ int main() {
     l_sock = socket(AF_INET, SOCK_STREAM, 0);
     bind(l_sock, &sender_addr, sizeof(sender_addr));
     while(1) {
-        listen(l_sock, 1);
-    
-        d_sock = accept(l_sock, &recv_addr, sizeof(recv_addr));
+        if(listen(l_sock, 1) > 0) {    
+            d_sock = accept(l_sock, &recv_addr, sizeof(recv_addr));
 
-        int n = recv(d_sock, buffer, BUFFER_SIZE, 0);
+            int n = recv(d_sock, buffer, BUFFER_SIZE, 0);
 
-        if(buffer) {
+        
             printf("%s", buffer);
             break;
         }
