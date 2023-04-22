@@ -23,6 +23,9 @@ The Repo to implement CS144's Lab By C++.
 
 The Repo to implement Top-Down Approach Lab By Python.
 
+## [College](./college)
+
+Some labs related to my college work.
 
 # Lecture Note
 
